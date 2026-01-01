@@ -1212,12 +1212,6 @@ footer {
     }
 }
 
-/* img,
-video {
-    max-width: 100%;
-    height: auto;
-    display: block;
-} */
 
 a {
     text-decoration: none;
@@ -1300,9 +1294,4 @@ a {
     height:240px;
   }
 
-}
-
-
-@media (max-width: 1024px) {
-    
 }
